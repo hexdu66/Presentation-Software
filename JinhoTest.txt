@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 ihateyou
 thanks
-=======
-iloveyou
->>>>>>> 554c0c060f4b98e8d826a468373ce9f33db5ba2c
